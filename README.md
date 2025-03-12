@@ -10,7 +10,7 @@
 作者：**[技术爬爬虾](https://github.com/tech-shrimp/me)**<br>
 B站，抖音，Youtube全网同名，转载请注明作者<br>
 
-## 使用方式
+## 使用方式 
 
 
 ### 配置阿里云
